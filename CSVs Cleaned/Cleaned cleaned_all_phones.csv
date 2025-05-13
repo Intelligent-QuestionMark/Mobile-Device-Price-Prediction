@@ -1,4 +1,4 @@
-brand,os,inches,battery,battery_type,ram(GB),announcement_date,weight(g),storage(GB),video_720p,video_1080p,video_4K,video_8K,video_30fps,video_60fps,video_120fps,video_240fps,video_480fps,video_960fps,price,resolution_height,resolution_width,resolution,os_brands,ppi
+brand,os,inches,battery,battery_type,ram(GB),announcement_date,weight(g),storage(GB),video_720p,video_1080p,video_4K,video_8K,video_30fps,video_60fps,video_120fps,video_240fps,video_480fps,video_960fps,price,resolution_width,resolution_height,resolution,os_brands,ppi
 Huawei,Android 5.1,5.0,2200,Li-Po,2,2016-09-01,140.0,16,True,False,False,False,True,False,False,False,False,False,120.0,720,1280,921600,Android,293.7209560109731
 LG,Android 7.0,5.3,2700,Li-Ion,2,2016-12-01,140.0,16,False,True,False,False,True,False,False,False,False,False,100.0,720,1280,921600,Android,277.095241519786
 Huawei,Android 7.0,5.2,3000,Li-Ion,4,2017-01-01,147.0,16,False,True,False,False,True,False,False,False,False,False,420.0,1080,1920,2073600,Android,423.6359942465958
